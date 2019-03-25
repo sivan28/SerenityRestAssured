@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Assignment 1","verify the total number of records as 36 when country code is IND","SUCCESS","2019-03-20T21:14:11.005-07:00[America/Los_Angeles]","0.0","0.21"
+"Assignment 1","verify the total number of records to be 0 when country code is ind","SUCCESS","2019-03-20T21:14:11.211-07:00[America/Los_Angeles]","0.0","0.21"
+"Assignment 1","verify the total number of records to be 0 when country code is Aus","SUCCESS","2019-03-20T21:14:11.423-07:00[America/Los_Angeles]","0.0","0.21"
